@@ -53,7 +53,7 @@ const Header = () => {
                 </Space>
                 <div className="container" >
                     <div className="header__content--left">
-                        <img src="public/images/logo_HungThien.png"
+                        <img src="/images/logo_HungThien.png"
                             alt="Logo with abstract design"
                             className="logo"
                         />
